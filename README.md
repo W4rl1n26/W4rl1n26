@@ -1,9 +1,4 @@
-<style>
-    table img{
-        width:70px;
-        height:70px;
-    }
-</style>
+<link rel="stylesheet" href="main.css">
 
 !["baner"](imgs/baner.png)
 
