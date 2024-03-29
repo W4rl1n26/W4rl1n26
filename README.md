@@ -1,3 +1,9 @@
+<style>
+    table img{
+        width:70px;
+        height:70px;
+    }
+</style>
 
 !["baner"](imgs/baner.png)
 
