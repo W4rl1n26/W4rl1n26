@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./main.css">
+<link rel="stylesheet" type="text/css" href="main.css">
 
 !["baner"](imgs/baner.png)
 
