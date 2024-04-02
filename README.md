@@ -1,19 +1,41 @@
+<style>
+
+    .img{
+        border-radius:50%;
+    }
+
+</style>
+
 !["baner"](imgs/baner.png)
 
-I am a Java backend developer, I am in the early stages of my professional career looking for opportunities to learn and grow in the programming world.
+<!-- style="display:block; margin: 0 auto;" --->
+<img src="imgs/Coding.gif" width="400px" height="400px" class="img">
+
+<h1 style="margin:0; text-align: center;"><i style="font-weight:200">Dev.</i> <strong>BackEnd</strong></h1>
+<div style="text-align: center;">
+    <h3 style="width:450px; display:inline-block; after">
+        <span style="color: #6B6B6B; display:inline-block;">"</span>
+        <span>texto uno y no  mas texto uno y no  mastexto uno y no  mas</span>
+        <span style="color: #6B6B6B;display:inline-block;">"</span>
+    </h3>
+</div>
+<p style="width:600px; text-align: center; display:block; margin: 0 auto;">I am a Java backend developer, I am in the early stages of my professional career looking for opportunities to learn and grow in the programming world.</p>
 
 ## Tools
+<div style="position:relative">
+    <img src="imgs/typing.svg" align="right" style="max-width:200px;">
+    </div>
+    <table >
+        <tr>
+        <th colspan="3">Main technologies</th>
+        </tr>
+        <tr>
+            <td><img src="icons/java.svg" witdh="70" height="70"></td>
+            <td><img src="icons/spring.svg" witdh="70" height="70"></td>
+            <td><img src="icons/hibernate.svg" witdh="70" height="70"></td>
+        </tr>
+    </table>
 
-<table>
-    <tr>
-    <th colspan="3">Main technologies</th>
-    </tr>
-    <tr>
-        <td><img src="icons/java.svg" witdh="70" height="70"></td>
-        <td><img src="icons/spring.svg" witdh="70" height="70"></td>
-        <td><img src="icons/hibernate.svg" witdh="70" height="70"></td>
-    </tr>
-</table>
 
 ## More technologies
 
@@ -55,7 +77,7 @@ I am a Java backend developer, I am in the early stages of my professional caree
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/warlin-clase-5688b0270/"><img src="icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/warlin-clase-5688b0270/"><img src="icons/linkedin.svg"></a> <a href="https://www.instagram.com/warlinclasedev/"><img src="icons/instagram.svg"></a>
 
 <!--
 **W4rl1n26/W4rl1n26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
