@@ -1,15 +1,9 @@
-<style>
-
-    .img{
-        border-radius:50%;
-    }
-
-</style>
+<link rel="stylesheet" href="./main.css">
 
 !["baner"](imgs/baner.png)
 
 <!-- style="display:block; margin: 0 auto;" --->
-<img src="imgs/Coding.gif" width="400px" height="400px" class="img">
+<img src="imgs/Coding.gif" class="img">
 
 <h1 style="margin:0; text-align: center;"><i style="font-weight:200">Dev.</i> <strong>BackEnd</strong></h1>
 <div style="text-align: center;">
