@@ -1,32 +1,26 @@
 
 <!-- style="display:block; margin: 0 auto;" --->
-<img src="imgs/Coding.gif" style="display:block; margin: 0 auto;">
+<div align="center">
+    <img src="imgs/Coding.gif" >
+</div>
 
-<h1 style="margin:0; text-align: center;"><i style="font-weight:200">Dev.</i> <strong>BackEnd</strong></h1>
-<div style="text-align: center;">
+<h1 align="center"><i>Dev.</i> BackEnd</h1>
+
+<div align="center">
     <h3 style="width:450px; display:inline-block;">
         <span style="color: #6B6B6B; display:inline-block;">"</span>
         One line, one solution
         <span style="color: #6B6B6B;display:inline-block;">"</span>
     </h3>
 </div>
-<p style="width:600px; text-align: center; display:block; margin: 0 auto;">I am a Java backend developer, I am in the early stages of my professional career looking for opportunities to learn and grow in the programming world.</p>
 
-<h4 style="text-align:center;"><a href="">View Portafolio</a></h4>
+<p align="center">I am a Java backend developer, I am in the early stages of my professional career looking for opportunities to learn and grow in the programming world.</p>
 
-<img src="imgs/logo.svg" align="right" width="250px" style="max-witdh:100%;">
-
-<br><br>
+<!--<h4 align="center"><a href="">View Portafolio</a></h4>-->
 
 ## Main tools
 
-<img src="icons/java.svg" witdh="40" height="40">
-<img src="icons/spring.svg" witdh="40" height="40">
-<img src="icons/hibernate.svg" witdh="40" height="40">
-
-## More technologies
-
-
+<img src="imgs/logo.svg" align="right" width="250px">
 <table style="text-align:center;">
     <tr>
         <th colspan="4">Lenguajes</th>
@@ -44,6 +38,8 @@
         <td>Java</td>
     </tr>
 </table>
+
+## More technologies
 
 <table style="text-align:center;">
     <tr>
