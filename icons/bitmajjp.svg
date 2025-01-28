@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="45"
+   viewBox="0 0 47.625 11.90625"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
+     id="layer1"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:50;stroke-opacity:1"
+       id="rect3"
+       width="17.796482"
+       height="11.90625"
+       x="0"
+       y="0" /><path
+       d="M 10.725315,1.5864669 A 4.3110365,4.3110365 0 0 1 10.195643,2.5134562 4.9365048,4.9365048 0 1 0 3.2991105,9.5728871 l 0.1833719,0.162992 A 4.9314307,4.9314307 0 0 0 11.580974,6.313122 C 11.723636,5.0703592 11.346666,3.4811859 10.725284,1.5864357 Z M 4.0122476,9.6136431 a 0.4197015,0.4197015 0 1 1 -0.061119,-0.590853 0.42885952,0.42885952 0 0 1 0.061119,0.590853 z M 10.694756,8.1365568 c -1.2122038,1.6197013 -3.820013,1.069588 -5.4804549,1.1511157 0,0 -0.2954111,0.020426 -0.5908689,0.061118 0,0 0.1121016,-0.050827 0.2547019,-0.1018078 C 6.0496125,8.8395283 6.5996787,8.7580006 7.3127689,8.3912742 8.6472406,7.7087588 9.9817125,6.211341 10.246549,4.6629236 9.7372075,6.1501914 8.1888365,7.4337257 6.7830341,7.9532638 5.8153043,8.3097934 4.0733817,8.6561572 4.0733817,8.6561572 L 4.0021288,8.6154636 C 2.8204532,8.0347915 2.779744,5.4677385 4.9392991,4.642608 5.8866975,4.2758818 6.7831121,4.4796618 7.8119914,4.2351569 8.9019579,3.9804707 10.165146,3.1655215 10.674503,2.0959329 c 0.570429,1.7215447 1.263141,4.390488 0.02027,6.0407486 z"
+       id="path1"
+       style="fill:#6db33f;fill-opacity:1;stroke-width:0.264582" /><path
+       style="fill:#6db33f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0"
+       d="m 11.543703,0 5.761495,11.90625 H 47.625001 V 0 Z"
+       id="path2" /><rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2-6"
+       width="47.625004"
+       height="11.90625"
+       x="0"
+       y="0" /></g></svg>
