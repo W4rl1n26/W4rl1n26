@@ -1,4 +1,4 @@
-!["baner"](imgs/baner.png)
+!["baner"](imgs/newBaner.png)
 
 I am a Java backend developer, I am in the early stages of my professional career looking for opportunities to learn and grow in the programming world.
 !["Sprint boot"](https://github.com/W4rl1n26/W4rl1n26/blob/main/icons/bitmajjp.svg)
