@@ -9,9 +9,9 @@ I am a Java backend developer, I am in the early stages of my professional caree
     <th colspan="3">Main technologies</th>
     </tr>
     <tr>
-        <td><img src="icons/java.svg" witdh="70" height="70"></td>
-        <td><img src="icons/spring.svg" witdh="70" height="70"></td>
-        <td><img src="icons/hibernate.svg" witdh="70" height="70"></td>
+        <td><img src="icons/java.svg" witdh="80" height="80"></td>
+        <td><img src="icons/spring.svg" witdh="80" height="80"></td>
+        <td><img src="icons/hibernate.svg" witdh="80" height="80"></td>
     </tr>
 </table>
 
@@ -24,32 +24,32 @@ I am a Java backend developer, I am in the early stages of my professional caree
     <tr>
         <!--- herramientas -->
         <td><img src="icons/bash.svg" witdh="80" height="80"></td>
-        <td><img src="icons/git.svg" witdh="70" height="70"></td>
-        <td><img src="icons/linux.svg" witdh="70" height="70"></td>
+        <td><img src="icons/git.svg" witdh="80" height="80"></td>
+        <td><img src="icons/linux.svg" witdh="80" height="80"></td>
         <!--- lenguajes -->
-        <td><img src="icons/html.svg" witdh="70" height="70"></td>
-        <td><img src="icons/css.svg" witdh="70" height="70"></td>
-        <td><img src="icons/javascript.svg" witdh="70" height="70"></td>
+        <td><img src="icons/html.svg" witdh="80" height="80"></td>
+        <td><img src="icons/css.svg" witdh="80" height="80"></td>
+        <td><img src="icons/javascript.svg" witdh="80" height="80"></td>
     </tr>
     <tr>
         <!--- herramientas -->
-        <td><img src="icons/figma.svg" witdh="70" height="70"></td>
-        <td><img src="icons/postman.svg" witdh="70" height="70"></td>
-        <td><img src="icons/netbeans.svg" witdh="70" height="70"></td>
+        <td><img src="icons/figma.svg" witdh="80" height="80"></td>
+        <td><img src="icons/postman.svg" witdh="80" height="80"></td>
+        <td><img src="icons/netbeans.svg" witdh="80" height="80"></td>
         <!--- lenguajes -->
-        <td><img src="icons/java.svg" witdh="70" height="70"></td>
-        <td><img src="icons/spring.svg" witdh="70" height="70"></td>
-        <td><img src="icons/bootstrap.svg" witdh="70" height="70"></td>
+        <td><img src="icons/java.svg" witdh="80" height="80"></td>
+        <td><img src="icons/spring.svg" witdh="80" height="80"></td>
+        <td><img src="icons/bootstrap.svg" witdh="80" height="80"></td>
     </tr>
     <tr>
     <!--- herramientas -->
-        <td><img src="icons/mysql.svg" witdh="70" height="70"></td>
-        <td><img src="icons/node.svg" witdh="70" height="70"></td>
-        <td><img src="icons/npm.svg" witdh="70" height="70"></td>
+        <td><img src="icons/mysql.svg" witdh="80" height="80"></td>
+        <td><img src="icons/node.svg" witdh="80" height="80"></td>
+        <td><img src="icons/npm.svg" witdh="80" height="80"></td>
         <!--- lenguajes -->
-        <td><img src="icons/react.svg" witdh="70" height="70"></td>
-        <td><img src="icons/express.svg" witdh="70" height="70"></td>
-        <td><img src="icons/notion.svg" witdh="70" height="70"></td>
+        <td><img src="icons/react.svg" witdh="80" height="80"></td>
+        <td><img src="icons/express.svg" witdh="80" height="80"></td>
+        <td><img src="icons/notion.svg" witdh="80" height="80"></td>
     </tr>
 </table>
 
