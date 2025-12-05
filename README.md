@@ -23,7 +23,7 @@ I am a Java backend developer, I am in the early stages of my professional caree
     </tr>
     <tr>
         <!--- herramientas -->
-        <td><img src="icons/bash.svg" witdh="70" height="70"></td>
+        <td><img src="icons/bash.svg" witdh="80" height="80"></td>
         <td><img src="icons/git.svg" witdh="70" height="70"></td>
         <td><img src="icons/linux.svg" witdh="70" height="70"></td>
         <!--- lenguajes -->
